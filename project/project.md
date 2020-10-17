@@ -8,6 +8,14 @@
 > managed in a branch `benchmark`. However, the team members must frequently stay in sync with `master` as new
 > developments are integrated there frequently. We want to make sure that a merge with master is 
 > any time possible.
+> 
+> At this time a draft with additional information is available at
+> 
+> * <https://github.com/cloudmesh/cloudmesh-openapi/blob/benchmark/paper/_index.md>
+>
+> The team has yet to merge the main document into a single document to avoid that 3 documents are used.
+>
+> At this time the plan is to have the document always in the master branch
 
 [Gregor von Laszewski](https://laszewski.github.io), 
 Richard Otten,
