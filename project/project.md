@@ -1,9 +1,20 @@
 # Benchmarking Multi-Cloud Auto Generated AI Services
 
+*NOTE:* 
+> The location of this paper is a temporary location. These notes will be at one point integrated into 
+> * <https://github.com/cloudmesh/cloudmesh-openapi/blob/master/paper/_index.md>
+>
+> The branch in which the documentation is done is going to be the master. During the development the code is
+> managed in a branch `benchmark`. However, the team members must frequently stay in sync with `master` as new
+> developments are integrated there frequently. We want to make sure that a merge with master is 
+> any time possible.
+
 [Gregor von Laszewski](https://laszewski.github.io), 
+Richard Otten,
 Anthony Orlowski, [fa20-523-310](https://github.com/cybertraining-dsc/fa20-523-310/), 
 Caleb Wilson, [fa20-523-348](https://github.com/cybertraining-dsc/fa20-523-348/), 
 Vishwanadham Mandala, [fa20-523-325](https://github.com/cybertraining-dsc/fa20-523-325/) 
+
 
 [Edit](https://github.com/cybertraining-dsc/fa20-523-348/blob/master/project/project.md)
 
