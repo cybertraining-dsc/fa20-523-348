@@ -1,16 +1,35 @@
-Team:
-Gregor von Laszewski, Anthony Orlowski, Caleb Wilson, Vishwanadh Mandala
+# Benchmarking Multi-Cloud Auto Generated AI Services
 
-Project:
-Cloudmesh Benchmarking
+[Gregor von Laszewski](https://laszewski.github.io), 
+Anthony Orlowski, [fa20-523-348](https://github.com/cybertraining-dsc/fa20-523-348/), 
+Caleb Wilson, 
+Vishwanadh Mandala
 
-Topic:
-Benchmarking Cloud service performance with cloudmesh openapi rest services and sklearn algorithms replicated as pytests. 
+[Edit](https://github.com/cybertraining-dsc/fa20-523-348/blob/master/project/project.md)
 
-Dataset:
+Saptarshi Sinha, [fa20-523-312](https://github.com/cybertraining-dsc/fa20-523-312/), [Edit](https://github.com/cybertraining-dsc/fa20-523-312/blob/master/project/project.md)
+
+{{% pageinfo %}}
+
+## Abstract
+
+In this wor we are benchmarking auto generated cloud REST services on various clouds. In todays application scientist want to share their services with a wide number of collegues while not only offereing the services as bare metal programs, but exposing the functionality as a software as a service. For this reason a tool has been debveloped that takes a regular python function and converts it automatically into a secure REST service. We will create a number of AI REST services while using examples from ScikitLearn and benchmark the execution of the resulting REST services on various clouds. The code will be accompanied by benchmark enhanced unit tests as to allow replication of the test on the users computer. A comparative study of the results is included in our evaluation.
+
+Contents
+
+{{< table_of_contents >}}
+
+{{% /pageinfo %}}
+
+**Keywords:** cloudmesh, AI service, REST, multi-cloud
+
+## Introduction
+
+## Dataset
+
 Sklearn algorithms replicated and pytests. How the pytests perform on various cloud environments. 
 
-For the final project, the Cloudmesh Benchmarking team will develop benchmark tests that are pytest replications of Sklearn artificial intelligent alogrithms. These pytests will then be ran on different cloud services to benchmark different statistics on how they run and how the cloud performs. The team will obtain cloud service accounts from AWS, Azure, Google, and OpenStack. To deploy the pytests, the team will use Cloudmesh and its Openapi based REST services to benchmark the performance on different cloud services. Benchmarks will include components like data transfer time, model train time, model prediction time, and more. The final project will include scripts and code for others to use and replicate our tests. The team will also make a report consisting of research and findings. So far, we have installed the Cloudmesh OpenAPI Service Generator on our local machines. We have tested some microservices, and even replicated a Pipeline Anova SVM example on our local machines. We will repeat these processes, but with pytests that we build and with cloud accounts. 
+We will develop benchmark tests that are pytest replications of Sklearn artificial intelligent alogrithms. These pytests will then be ran on different cloud services to benchmark different statistics on how they run and how the cloud performs. The team will obtain cloud service accounts from AWS, Azure, Google, and OpenStack. To deploy the pytests, the team will use Cloudmesh and its Openapi based REST services to benchmark the performance on different cloud services. Benchmarks will include components like data transfer time, model train time, model prediction time, and more. The final project will include scripts and code for others to use and replicate our tests. The team will also make a report consisting of research and findings. So far, we have installed the Cloudmesh OpenAPI Service Generator on our local machines. We have tested some microservices, and even replicated a Pipeline Anova SVM example on our local machines. We will repeat these processes, but with pytests that we build and with cloud accounts. 
 
 Here is the installation process for Cloudmesh OpenAPI:
 python -m venv ~/ENV3
