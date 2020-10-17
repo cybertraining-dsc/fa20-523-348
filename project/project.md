@@ -112,7 +112,7 @@ Lastly, we closed the server:
 $ cms openapi server stop sklearn_svm
 
 
-This process we will do with pytests we create ourselves from sklearn examples. We will then benchmark test our pytests on various cloud services. 
+We will replicate this process with pytests that we create ourselves from sklearn examples. We will then benchmark test our pytests on various cloud services. 
 
 Cloudmesh is a service that enables users to access multi-cloud environments easily. Cloudmesh is an evolution of previous tools that have been used by thousands of users. Cloudmesh makes interacting with clouds easy by creating a service mashup to access common cloud services across numerous cloud platforms. Documentation for Cloudmesh can be found at: https://cloudmesh.github.io/cloudmesh-manual/
 Code for cloud mesh can be found at: https://github.com/cloudmesh/
