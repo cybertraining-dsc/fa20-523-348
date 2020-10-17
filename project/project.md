@@ -3,7 +3,7 @@
 [Gregor von Laszewski](https://laszewski.github.io), 
 Anthony Orlowski, [fa20-523-310](https://github.com/cybertraining-dsc/fa20-523-310/), 
 Caleb Wilson, [fa20-523-348](https://github.com/cybertraining-dsc/fa20-523-348/), 
-Vishwanadham Mandala, [fa20-523-325](https://github.com/cybertraining-dsc/fa20-523-325/), 
+Vishwanadham Mandala, [fa20-523-325](https://github.com/cybertraining-dsc/fa20-523-325/) 
 
 [Edit](https://github.com/cybertraining-dsc/fa20-523-348/blob/master/project/project.md)
 
