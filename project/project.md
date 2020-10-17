@@ -18,11 +18,11 @@ pip install cloudmesh-installer
 cloudmesh-installer get openapi 
 cms help
 cms gui quick
-# fill out mongo variables
-# make sure autinstall is True
+#fill out mongo variables
+#make sure autinstall is True
 cms config set cloudmesh.data.mongo.MONGO_AUTOINSTALL=True
 cms admin mongo install --force
-# Restart a new terminal to make sure mongod is in your path
+#Restart a new terminal to make sure mongod is in your path
 cms init
 
 Here is the quickstart that we worked through:
@@ -58,7 +58,7 @@ def add(x: float, y: float) -> float:
 cms openapi generate add --filename=./tests/add-float/add.py
 cms openapi server start ./tests/add-float/add.yaml 
 curl -X GET "http://localhost:8080/cloudmesh/add?x=1&y=2" -H  "accept: text/plain"
-# This command returns
+#This command returns
 > 3.0
 cms openapi server stop add
 
@@ -82,7 +82,7 @@ def add(x: float, y: float) -> str:
 cms openapi generate add --filename=./tests/add-json/add.py
 cms openapi server start ./tests/add-json/add.yaml 
 curl -X GET "http://localhost:8080/cloudmesh/add?x=1&y=2" -H  "accept: text/plain"
-# This command returns
+#This command returns
 > {"result":3.0}
 cms openapi server stop add
 
