@@ -1,6 +1,6 @@
 # Benchmarking Multi-Cloud Auto Generated AI Services
 
-*NOTE:* 
+*NOTE:*
 > The location of this paper is a temporary location. These notes will be at one point integrated into 
 > * <https://github.com/cloudmesh/cloudmesh-openapi/blob/master/paper/_index.md>
 >
