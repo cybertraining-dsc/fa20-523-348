@@ -230,10 +230,15 @@ Azure has updated their libraries and discontinued the version 4.0 Azure librari
 ## References
 
 [^1]: Cloudmesh Manual, <https://cloudmesh.github.io/cloudmesh-manual/> 
+
 [^2]: Cloudmesh Repositories, <https://github.com/cloudmesh/>
-[^3] Cloudmesh OpenAPI Repository for automatically generated REST services from Python functions <https://github.com/cloudmesh/cloudmesh-openapi>.
-[^4] Cloudmesh Manaual Preface for cloudmesh,  <https://cloudmesh.github.io/cloudmesh-manual/preface/about.html>
+
+[^3]: Cloudmesh OpenAPI Repository for automatically generated REST services from Python functions <https://github.com/cloudmesh/cloudmesh-openapi>.
+
+[^4]: Cloudmesh Manaual Preface for cloudmesh,  <https://cloudmesh.github.io/cloudmesh-manual/preface/about.html>
+
 [^5]: Cloudmesh Manual, Instalation instryctions for cloudmesh <https://cloudmesh.github.io/cloudmesh-manual/installation/install.html>
+
 [^6]: Scikit Learn, Pipeline Anova SVM, <https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection_pipeline.html>
 
 
