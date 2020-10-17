@@ -145,22 +145,30 @@ We will replicate this process with pytests that we create ourselves from sklear
 
 Cloudmesh is a service that enables users to access multi-cloud environments easily. Cloudmesh is an evolution of previous tools that have been used by thousands of users. Cloudmesh makes interacting with clouds easy by creating a service mashup to access common cloud services across numerous cloud platforms. Documentation for Cloudmesh can be found at: 
 
-* <https://cloudmesh.github.io/cloudmesh-manual/> 
+* <https://cloudmesh.github.io/cloudmesh-manual/> [^1]
 
 Code for cloud mesh can be found at: 
 
-* <https://github.com/cloudmesh/>
+* <https://github.com/cloudmesh/> [^2]
 
 Examples in this paper came from the cloudmesh openapi manual which is located here: 
 
-* <https://github.com/cloudmesh/cloudmesh-openapi>.
+* <https://github.com/cloudmesh/cloudmesh-openapi> [^3].
 
 Information about cloudmesh can be found here: 
-* <https://cloudmesh.github.io/cloudmesh-manual/preface/about.html>
+* <https://cloudmesh.github.io/cloudmesh-manual/preface/about.html> [^4]
 
 Various cloudmesh installations for various needs can be found here: 
 
-* <https://cloudmesh.github.io/cloudmesh-manual/installation/install.html>
+* <https://cloudmesh.github.io/cloudmesh-manual/installation/install.html> [^5]
+
+## References
+
+[^1]: Cloudmesh Manual, <https://cloudmesh.github.io/cloudmesh-manual/> 
+[^2]: Cloudmesh Repositories, <https://github.com/cloudmesh/>
+[^3] Cloudmesh OpenAPI Repository for automatically generated REST services from Python functions <https://github.com/cloudmesh/cloudmesh-openapi>.
+[^4] Cloudmesh Manaual Preface for cloudmesh,  <https://cloudmesh.github.io/cloudmesh-manual/preface/about.html>
+[^5]: Cloudmesh Manual, Instalation instryctions for cloudmesh <https://cloudmesh.github.io/cloudmesh-manual/installation/install.html>
 
 
 
