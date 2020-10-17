@@ -1,4 +1,4 @@
-# Benchmarking Multi-Cloud Auto Generated AI Services
+# Benchmarking Multi-Cloud Auto Generated AI Services Deprecated
 
 *NOTE:*
 > The location of this paper is a temporary location. These notes will be at one point integrated into 
